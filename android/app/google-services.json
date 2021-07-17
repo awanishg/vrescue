@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229982632573",
+    "firebase_url": "https://vrescue-fbafc.firebaseio.com",
+    "project_id": "vrescue-fbafc",
+    "storage_bucket": "vrescue-fbafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229982632573:android:7d53e6e43607119f5bcf14",
+        "android_client_info": {
+          "package_name": "tk.sha3rawi33.healthy_wealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229982632573-jl6afpv7l5toq22ditirtcsdrac6q685.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcyf3oKDZTfBBMqZWy_MBGsV3SG_-iP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229982632573-jl6afpv7l5toq22ditirtcsdrac6q685.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
